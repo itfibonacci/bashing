@@ -1,0 +1,31 @@
+#!/opt/homebrew/bin/bash
+
+declare -A phonetic_alphabet
+
+# NATO Phonetic Alphabet
+phonetic_alphabet["A"]="Alfa"
+phonetic_alphabet["B"]="Bravo"
+phonetic_alphabet["C"]="Charlie"
+phonetic_alphabet["D"]="Delta"
+phonetic_alphabet["E"]="Echo"
+phonetic_alphabet["F"]="Foxtrot"
+phonetic_alphabet["G"]="Golf"
+phonetic_alphabet["H"]="Hotel"
+phonetic_alphabet["I"]="India"
+phonetic_alphabet["J"]="Juliet"
+phonetic_alphabet["K"]="Kilo"
+phonetic_alphabet["L"]="Lima"
+phonetic_alphabet["M"]="Mike"
+phonetic_alphabet["N"]="November"
+phonetic_alphabet["O"]="Oscar"
+phonetic_alphabet["P"]="Papa"
+phonetic_alphabet["Q"]="Quebec"
+phonetic_alphabet["R"]="Romeo"
+phonetic_alphabet["S"]="Sierra"
+phonetic_alphabet["T"]="Tango"
+phonetic_alphabet["U"]="Uniform"
+phonetic_alphabet["V"]="Victor"
+phonetic_alphabet["W"]="Whiskey"
+phonetic_alphabet["X"]="X-Ray"
+phonetic_alphabet["Y"]="Yankee"
+phonetic_alphabet["Z"]="Zulu"
